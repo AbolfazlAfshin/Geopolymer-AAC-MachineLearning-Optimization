@@ -85,7 +85,7 @@ Both optimization scenarios must be run in the same session, since the figure an
 draw on results from each.
 
 **Runtime note.** The NSGA-II runs use a population of 600 over 1500 generations across
-multiple random seeds and take a long time on a CPU runtime. The price sensitivity sweep runs a
+multiple random seeds. The price sensitivity sweep runs a
 separate optimization at each of seven price points.
 
 ---
