@@ -1,0 +1,23 @@
+# Core
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+
+# Machine learning
+scikit-learn==1.6.1
+xgboost>=2.0
+catboost>=1.2
+
+# Optimization
+pymoo>=0.6.1
+mealpy>=3.0.1
+
+# Interpretation
+shap>=0.44
+
+# Plotting
+matplotlib>=3.8
+seaborn>=0.13
+
+# Notebook
+jupyter>=1.0
