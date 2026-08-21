@@ -122,5 +122,3 @@ with its original license.
 ## Contact
 
 Abolfazl Afshin, University of Mississippi. aafshin@go.olemiss.edu
-
-Questions and issues are welcome through the repository issue tracker.
