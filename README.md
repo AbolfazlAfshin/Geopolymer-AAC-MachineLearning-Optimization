@@ -32,22 +32,9 @@ Three elements distinguish the framework:
 
 ---
 
-## Repository layout
-
-```
-data/
-  Geo_Data_FA_Slag_Chemistry_Journal.csv   dataset, 2370 records
-notebooks/
-  geopolymer_ml_optimization.ipynb         full analysis, outputs cleared
-requirements.txt                           package versions
-LICENSE                                    MIT
-```
-
----
-
 ## Dataset
 
-`data/Geo_Data_FA_Slag_Chemistry_Journal.csv` contains 2370 records covering 1226 unique
+Dataset contains 2370 records covering 1226 unique
 mixtures compiled from 89 studies. It is derived from the open alkali-activated concrete
 dataset published by Torres et al. (2023), with additional curation and the chemistry
 descriptors used in this study.
