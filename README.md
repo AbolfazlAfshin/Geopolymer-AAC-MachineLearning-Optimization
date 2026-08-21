@@ -34,7 +34,7 @@ Three elements distinguish the framework:
 
 ## Dataset
 
-Dataset contains 2370 records covering 1226 unique
+The curated dataset contains 2370 records covering 1226 unique
 mixtures compiled from 89 studies. It is derived from the open alkali-activated concrete
 dataset published by Torres et al. (2023), with additional curation and the chemistry
 descriptors used in this study.
@@ -114,10 +114,13 @@ alkali-activated concrete and its properties. *Data in Brief*, 50, 109525.
 
 ## License
 
-Code is released under the MIT License. The dataset is redistributed under CC BY 4.0 in line
-with its original license.
+Code is released under the MIT License.
 
 ---
+
+## Data
+
+The curated dataset is not included in this repository and is available upon request.
 
 ## Contact
 
