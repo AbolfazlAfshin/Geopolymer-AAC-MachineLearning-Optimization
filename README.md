@@ -62,15 +62,6 @@ regenerate them.
 
 **Google Colab.** Open the notebook, upload the CSV when prompted, and run all cells.
 
-**Locally.**
-
-```bash
-git clone https://github.com/aafshin/geopolymer-aac-ml-optimization.git
-cd geopolymer-aac-ml-optimization
-pip install -r requirements.txt
-jupyter notebook notebooks/geopolymer_ml_optimization.ipynb
-```
-
 Random seed 42 is fixed throughout, so the results are reproducible.
 
 ---
