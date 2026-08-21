@@ -43,9 +43,9 @@ descriptors used in this study.
 |---|---|
 | Records | 2370 |
 | Unique mixtures | 1226 |
-| Fly ash only | 1338 records |
-| GGBFS only | 318 records |
-| Blended | 714 records |
+| Fly ash mixtures | 1338 records |
+| GGBFS mixtures | 318 records |
+| Blended mixtures | 714 records |
 | Compressive strength | 0.91 to 86.33 MPa |
 | Model inputs | 16, including chemistry descriptors |
 
